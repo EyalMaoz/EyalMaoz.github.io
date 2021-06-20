@@ -5,5 +5,5 @@ Which was implemented in Windows Forms (C#), I decided to challenge my self to c
 In this web version I implemented only the the first algorithm.
 
 # Link
-The website is very intuative, you can try it here: https://dijkstra-self-stabilization.herokuapp.com/
+The website is very intuative, you can try it here: https://eyalmaoz.github.io/
 
